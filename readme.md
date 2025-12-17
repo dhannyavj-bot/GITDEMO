@@ -2,9 +2,10 @@ Dhannya,
 Full stack Developer   
 Chennai   
 
-Git commands:
+Important Git commands:
 - git -v
 - git --version
+- pwd or cd or ls or dir
 - git remote add origin https://github.com/dhannyavj-bot/GITDEMO.git
 - git remote
 - git init
